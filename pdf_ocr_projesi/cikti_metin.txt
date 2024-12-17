@@ -1,0 +1,26 @@
+EK ÖRNEKLERİ
+
+Bir Adet Ek Olması Durumu:
+
+Ek: Kararname Taslağı (13 Sayfa)
+
+ÖRNEK 12
+
+Adı SOYADI
+Bakan
+
+Birden Fazla Ek Olması Durumu:
+
+Ek:
+1- Yönetmelik Taslağı (12 Sayfa)
+2- Dosya (1 Adet)
+
+Adı SOYADI
+Halk Sağlığı Genel Müdürü
+
+Ekin Liste Olarak Düzenlenmesi Durumu:
+
+Ek: Ek Listesi (10 Adet)
+
+Adı SOYADI
+Güvenlik İşleri Genel Müdürü
